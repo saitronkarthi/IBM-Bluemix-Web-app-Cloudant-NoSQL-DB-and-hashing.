@@ -1,0 +1,1 @@
+# IBM-Bluemix-Web-app-Cloudant-NoSQL-DB-and-hashing.
